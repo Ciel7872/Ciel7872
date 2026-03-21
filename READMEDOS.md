@@ -5,20 +5,25 @@
 <br>
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_adios.gif" width="150" style="margin-left: 20px;" />
 
-  <h3><big><big> About Me | Sobre mí</big></big></h3>
+  <h3><big><big>🖥️🦄 About Me </big></big></h3>
   
   <p>
-    I am an Information Systems Engineering student from <b>Córdoba, Argentina</b>, currently exploring the intersection of Data Engineering and Analytics.<br>
-    <i>Soy estudiante de Ingeniería en Sistemas de Información en <b>Córdoba, Argentina</b>, explorando actualmente la intersección entre la Ingeniería de Datos y el Análisis.</i>
+    Hello! I am an Information Systems Engineering student at UTN in Córdoba, Argentina. I am highly organized and passionate about self-taught learning and continuous growth in the fields of data and automation. And lately I've become fascinated by generative AI!
+    <br>
+    When I am not programming, I really enjoy going out with my friends, discovering new coffee shops around Córdoba, and going to the movies... especially to watch horror films!
+    <br>
+    💬 <b>Ask me about:</b> Python, SQL, Software Architecture, or recommend me a good horror movie!
   </p>
-  <ul>
-    <li>🌱 <b>Learning Path | Aprendizaje:</b> Currently enrolled in a Data Analytics & Engineering training at Dicsys. / <i>Actualmente realizando la formación de Analista e Ingeniería de Datos en Dicsys.</i></li>
-    <li>💬 <b>Ask me about | Pregúntame sobre:</b> Python, SQL, Software Architecture, or the best coffee spots in Córdoba. / <i>Python, SQL, Arquitectura de Software, o los mejores lugares de café en Córdoba.</i></li>
-  </ul>
-  
-  
+  <br>
+  <h3><big><big> 🖥️🦄 Sobre mí</big></big></h3>
+  <p>
+    ¡Hola! Soy estudiante de Ingeniería en Sistemas de Información en la UTN en Córdoba, Argentina. Soy muy organizada y apasionada por el aprendizaje autodidacta y el crecimiento continuo en áreas de datos y automatización.Y últimamente me ha fascinado la IA generativa!
+    <br>
+    Cuando no estoy programando, disfruto mucho salir con mis amigos, descubrir nuevas cafeterías por Córdoba y el cine... ¡sobre todo si es para ver películas de terror!
+    <br>
+    💬 <b>Pregúntame sobre:</b> Python, SQL, Arquitectura de Software, o recomiéndame una buena peli de terror...
+  </p>
 </div>
 
 <br clear="all" />
