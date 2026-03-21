@@ -71,9 +71,9 @@ If you want to reach out to collaborate on Data projects or just chat about tech
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/claudia-alca-bejar/"><img width="150" height="40" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:claudiaalca78@gmail.com"><img width="150" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kiim_kahomy/"><img width="150" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/claudia-alca-bejar/"><img height="60" src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/linkedin_logo.png" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:claudiaalca78@gmail.com"><img height="60" src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gmail1.png" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kiim_kahomy/"><img height="60" src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/instagram_logo.png" alt="Instagram" /></a>
 </p>
 
 <br><br><br><br>
