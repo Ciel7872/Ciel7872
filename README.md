@@ -81,5 +81,5 @@ If you want to reach out to collaborate on Data projects or just chat about tech
 <div align="right">
   <span style="font-size: 20px; font-weight: bold; color: #A7A459;">Thank you for your attention!!!</span>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_kyubey.gif" height="80" align="middle" />
+  <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/despedida_gif.gif" height="150" align="middle" />
 </div>
