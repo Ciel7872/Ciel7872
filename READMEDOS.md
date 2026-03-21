@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gift_about.gif" width="100px" />
+      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_about.gif" width="100px" />
     </td>
     <td width="80%" valign="middle">
       <h2>👾 What I am interested in learning:</h2>
