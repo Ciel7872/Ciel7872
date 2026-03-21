@@ -71,16 +71,9 @@ If you want to reach out to collaborate on Data projects or just chat about tech
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/claudia-alca-bejar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-
-  <a href="mailto:claudiaalca78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.instagram.com/kiim_kahomy/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/claudia-alca-bejar/"><img width="150" height="40" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:claudiaalca78@gmail.com"><img width="150" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kiim_kahomy/"><img width="150" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <br><br><br><br>
