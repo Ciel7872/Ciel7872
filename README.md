@@ -8,26 +8,34 @@
   <h3><big><big>🖥️🦄 About Me </big></big></h3>
   
   <p>
-    Hello! I am an Information Systems Engineering student at UTN in Córdoba, Argentina. I am highly organized and passionate about self-taught learning and continuous growth in the fields of data and automation. And lately I've become fascinated by generative AI!
-    <br>
-    When I am not programming, I really enjoy going out with my friends, discovering new coffee shops around Córdoba, and going to the movies... especially to watch horror films!
-    <br>
-    💬 <b>Ask me about:</b> Python, SQL, Software Architecture, or recommend me a good horror movie!
+    Hallooo! wie geht es dir?!👋 I am an Information Systems Engineering student at UTN F.R. Córdoba, Argentina.
+    <br> 
+I am passionate about constant learning and personal growth to feed this curiosity that always pushes me to go a step further. Lately, I've been fascinated by everything related to generative AI and automated processes.
+   <br> 
+I really enjoy art, nature 🌿, and animals, especially orcas 🐋 -- they are amazing creatures!💙 --
+   <br> 
+In my free time, I like swimming, playing volleyball, going out with friends to discover new coffee shops in Córdoba, having picnics, and above all, going to the movies 🎬... Especially if it's to watch horror films!
+    <br> 
+💬 You can ask me about: Python, SQL, Software Architecture, or ask me to recommend a good horror movie!
   </p>
+  
   <br>
+ 
   <h3><big><big> 🖥️🦄 Sobre mí</big></big></h3>
   <p>
-    ¡Hola! Soy estudiante de Ingeniería en Sistemas de Información en la UTN en Córdoba, Argentina. Soy muy organizada y apasionada por el aprendizaje autodidacta y el crecimiento continuo en áreas de datos y automatización.Y últimamente me ha fascinado la IA generativa!
+    Hallooo! wie geht es dir?!👋 Soy estudiante de Ingeniería en Sistemas de Información en la UTN F.R. Córdoba, Argentina.
+    <br> 
+    Me apasiona el aprendizaje constante, el crecimiento personal para saciar esta curiosidad que siempre me impulsa a ir un poco más allá. Últimamente, me tiene fascinada todo lo relacionado con la inteligencia artificial generativa  y los procesos automatizados.
     <br>
-    Cuando no estoy programando, disfruto mucho salir con mis amigos, descubrir nuevas cafeterías por Córdoba y el cine... ¡sobre todo si es para ver películas de terror!
+Disfruto mucho del arte , la naturaleza 🌿 y los animales especialmente las orcas 🐋--son seres fantásticos!💙-- 
     <br>
-    💬 <b>Pregúntame sobre:</b> Python, SQL, Arquitectura de Software, o recomiéndame una buena peli de terror...
+En mi tiempo libre me gusta nadar , jugar al vóley , salir con amigos para descubrir nuevas cafeterías en Córdoba, hacer picnics y sobre todo ir al cine 🎬… Especialmente si es para ver películas de terror!
+    <br>
+💬 Podes preguntarme sobre: Python, SQL , Arquitectura de Software  o pedirme que te recomiende una buena peli de terror!
   </p>
 </div>
 
 <br clear="all" />
-<br>
-
 
 ### 👩‍💻 Languages & Tools:
 <p align="left">
