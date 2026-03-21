@@ -17,12 +17,14 @@
         <li>💬 <b>Ask me about | Pregúntame sobre:</b> Python, SQL, Software Architecture, or the best coffee spots in Córdoba. / <i>Python, SQL, Arquitectura de Software, o los mejores lugares de café en Córdoba.</i></li>
       </ul>
       <br>
-      [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiim_kahomy/)
+      <a href="https://www.instagram.com/kiim_kahomy/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_adios.gif" width="150px" />
+      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_adios.gif" width="220px" />
       <br><br>
-      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_reunion.gif" width="150px" />
+      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_reunion.gif" width="220px" />
     </td>
   </tr>
 </table>
@@ -44,15 +46,21 @@
 
 <table>
   <tr>
-    <td width="20%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_about.gif" width="100px" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Ciel7872/Ciel7872/main/gif_about.gif" width="200px" />
     </td>
-    <td width="80%" valign="middle">
+    <td width="75%" valign="middle">
       <h2>👾 What I am interested in learning:</h2>
       <p align="left">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Serenity_BDD-31BEA6?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -65,7 +73,7 @@
 If you want to reach out to collaborate on Data projects or just chat about tech, drop me a message!
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/claudia-alca-bejar/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:claudiaalca78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
