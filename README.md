@@ -8,13 +8,13 @@
   <h3><big><big>🖥️🦄 About Me </big></big></h3>
   
   <p>
-    Hallooo! wie geht es dir?!👋 I am an Information Systems Engineering student at UTN F.R. Córdoba, Argentina.
+    Hallooo! wie geht es dir?!👋 I'm an Information Systems Engineering student at UTN F.R. Córdoba, Argentina.
     <br> 
-I am passionate about constant learning and personal growth to feed this curiosity that always pushes me to go a step further. Lately, I've been fascinated by everything related to generative AI and automated processes.
+I,m passionate about constant learning and personal growth to feed this curiosity that always pushes me to go a step further. Lately, I've been fascinated by everything related to generative AI and automated processes.
    <br> 
 I really enjoy art, nature 🌿, and animals, especially orcas 🐋 -- they are amazing creatures!💙 --
    <br> 
-In my free time, I like swimming, playing volleyball, going out with friends to discover new coffee shops in Córdoba, having picnics, and above all, going to the movies 🎬... Especially if it's to watch horror films!
+In my free time, I like swimming, playing volleyball, go out with friends to discover new coffee shops in Córdoba, have picnics, and above all, go to the movies 🎬... especially if it's to watch horror films!
     <br> 
 💬 You can ask me about: Python, SQL, Software Architecture, or ask me to recommend a good horror movie!
   </p>
