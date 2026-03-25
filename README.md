@@ -10,7 +10,7 @@
   <p>
     Hallooo! wie geht es dir?!👋 I'm an Information Systems Engineering student at UTN F.R. Córdoba, Argentina.
     <br> 
-I,m passionate about constant learning and personal growth to feed this curiosity that always pushes me to go a step further. Lately, I've been fascinated by everything related to generative AI and automated processes.
+I'm passionate about constant learning and personal growth to feed this curiosity that always pushes me to go a step further. Lately, I've been fascinated by everything related to generative AI and automated processes.
    <br> 
 I really enjoy art, nature 🌿, and animals, especially orcas 🐋 -- they are amazing creatures!💙 --
    <br> 
