@@ -5,10 +5,10 @@
 
 <div>
 
-  <h3><big><big>🖥️🦄 About Me </big></big></h3>
+  <h3><big><big> About Me </big></big></h3>
   
   <p>
-    Hallooo! wie geht es dir?!👋 I'm an Information Systems Engineering student at UTN F.R. Córdoba, Argentina.
+    Hallooo! wie geht es dir?! I'm an Information Systems Engineering student at UTN F.R. Córdoba, Argentina.
     <br> 
 I'm passionate about constant learning and personal growth to feed this curiosity that always pushes me to go a step further. Lately, I've been fascinated by everything related to generative AI and automated processes.
    <br> 
@@ -21,9 +21,9 @@ In my free time, I like swimming, playing volleyball, go out with friends to dis
   
   <br>
  
-  <h3><big><big> 🖥️🦄 Sobre mí</big></big></h3>
+  <h3><big><big> Sobre mí</big></big></h3>
   <p>
-    Hallooo! wie geht es dir?!👋 Soy estudiante de Ingeniería en Sistemas de Información en la UTN F.R. Córdoba, Argentina.
+    Hallooo! wie geht es dir?! Soy estudiante de Ingeniería en Sistemas de Información en la UTN F.R. Córdoba, Argentina.
     <br> 
     Me apasiona el aprendizaje constante, el crecimiento personal para saciar esta curiosidad que siempre me impulsa a ir un poco más allá. Últimamente, me tiene fascinada todo lo relacionado con la inteligencia artificial generativa  y los procesos automatizados.
     <br>
