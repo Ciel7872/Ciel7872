@@ -14,9 +14,9 @@ I'm passionate about constant learning and personal growth to feed this curiosit
    <br> 
 I really enjoy art, nature, and animals, especially orcas -- they are amazing creatures!💙 --
    <br> 
-In my free time, I like swimming yplaying volleyball
+In my free time, I like swimming yplaying volleyball.
     <br> 
-You can ask me about: Python, SQL, or Software Architecture.
+You can ask me about: Python, SQL or Software Architecture.
   </p>
   
   <br>
@@ -27,11 +27,11 @@ You can ask me about: Python, SQL, or Software Architecture.
     <br> 
     Me apasiona el aprendizaje constante, el crecimiento personal para saciar esta curiosidad que siempre me impulsa a ir un poco más allá. Últimamente, me tiene fascinada todo lo relacionado con la inteligencia artificial generativa  y los procesos automatizados.
     <br>
-Disfruto mucho del arte , la naturaleza y los animales especialmente las orcas 🐋--son seres fantásticos!💙-- 
+Disfruto mucho del arte , la naturaleza y los animales especialmente las orcas --son seres fantásticos!🐋💙-- 
     <br>
 En mi tiempo libre me gusta nadar y jugar al vóley.
     <br>
-Podes preguntarme sobre: Python, SQL , Arquitectura de Software.
+Podes preguntarme sobre: Python, SQL o Arquitectura de Software.
   </p>
 </div>
 
